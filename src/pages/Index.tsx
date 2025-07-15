@@ -44,7 +44,7 @@ const Index = () => {
                 <Icon name="Snowflake" className="text-white" size={24} />
               </div>
               <div>
-                <h1 className="text-xl font-bold text-gray-900">ХолодТех ДНР</h1>
+                <h1 className="text-xl font-bold text-gray-900">DonServis</h1>
                 <p className="text-sm text-gray-600">Профессиональный ремонт</p>
               </div>
             </div>
@@ -280,7 +280,7 @@ const Index = () => {
                 <div className="flex items-center space-x-3">
                   <Icon name="Mail" className="text-blue-200" size={24} />
                   <div>
-                    <div className="text-white font-semibold">info@holodtech-dnr.ru</div>
+                    <div className="text-white font-semibold">info@donservis.ru</div>
                     <div className="text-blue-200">Ответим в течение часа</div>
                   </div>
                 </div>
@@ -341,7 +341,7 @@ const Index = () => {
                 <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
                   <Icon name="Snowflake" className="text-white" size={16} />
                 </div>
-                <span className="font-bold">ХолодТех ДНР</span>
+                <span className="font-bold">DonServis</span>
               </div>
               <p className="text-gray-400">
                 Профессиональный ремонт климатической техники в ДНР
@@ -379,7 +379,7 @@ const Index = () => {
           </div>
           
           <div className="border-t border-gray-800 mt-12 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 ХолодТех ДНР. Все права защищены.</p>
+            <p>&copy; 2024 DonServis. Все права защищены.</p>
           </div>
         </div>
       </footer>
