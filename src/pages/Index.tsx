@@ -322,10 +322,7 @@ const Index = () => {
                   />
                 </div>
                 
-                <Button className="w-full bg-blue-600 hover:bg-blue-700">
-                  <Icon name="Send" size={16} className="mr-2" />
-                  Отправить заявку
-                </Button>
+                <Button className="w-full bg-blue-600 hover:bg-blue-700">Отправить заявку</Button>
               </CardContent>
             </Card>
           </div>
